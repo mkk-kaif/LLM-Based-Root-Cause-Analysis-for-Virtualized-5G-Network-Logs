@@ -1,0 +1,13 @@
+Model,Fault Type,Samples,Accuracy (%),Precision,Recall,Interpretability (0-10)
+openrouter/auto,Protocol Interaction,2,100.0,1.0,1.0,9.0
+openrouter/auto,SBI Failure,2,50.0,0.5,0.5,8.5
+openrouter/auto,Transport Layer,2,100.0,1.0,1.0,7.5
+openrouter/auto,Registration Failure,2,100.0,1.0,1.0,8.0
+meta-llama/llama-3.2-3b-instruct:free,Protocol Interaction,2,0.0,0.0,0.0,3.0
+meta-llama/llama-3.2-3b-instruct:free,SBI Failure,2,0.0,0.0,0.0,3.0
+meta-llama/llama-3.2-3b-instruct:free,Transport Layer,2,0.0,0.0,0.0,3.0
+meta-llama/llama-3.2-3b-instruct:free,Registration Failure,2,0.0,0.0,0.0,3.0
+google/gemma-3-4b-it:free,Protocol Interaction,2,0.0,0.0,0.0,4.0
+google/gemma-3-4b-it:free,SBI Failure,2,0.0,0.0,0.0,4.0
+google/gemma-3-4b-it:free,Transport Layer,2,0.0,0.0,0.0,4.0
+google/gemma-3-4b-it:free,Registration Failure,2,0.0,0.0,0.0,4.0
