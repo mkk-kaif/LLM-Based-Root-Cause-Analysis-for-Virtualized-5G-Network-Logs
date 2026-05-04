@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+pandas
+sentence-transformers
+pytest
+fastapi[all]
